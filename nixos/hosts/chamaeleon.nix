@@ -1,0 +1,3 @@
+{
+  storage.rootDisk = null;
+}
